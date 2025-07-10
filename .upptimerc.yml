@@ -5,6 +5,7 @@ repo: stfc-status-page # The name of this repository
 sites:
   - name: OpenStack Web UI (Horizon)
     url: https://openstack.stfc.ac.uk
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -12,6 +13,7 @@ sites:
       - 300
   - name: OpenStack Baremetal (Ironic)
     url: https://openstack.stfc.ac.uk:6385
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -19,6 +21,7 @@ sites:
       - 300
   - name: OpenStack Baremetal Introspection (Ironic-Inspector)
     url: https://openstack.stfc.ac.uk:5050/
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -26,6 +29,7 @@ sites:
       - 300
   - name: OpenStack Cloudformation (Heat-CFN)
     url: https://openstack.stfc.ac.uk:8000/v1
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -33,6 +37,7 @@ sites:
       - 300
   - name: OpenStack Compute (Nova)
     url: https://openstack.stfc.ac.uk:8774/v2.1
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -40,6 +45,7 @@ sites:
       - 300
   - name: OpenStack Legacy Compute (Nova Legacy)
     url: https://openstack.stfc.ac.uk:8774/v2
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -47,6 +53,7 @@ sites:
       - 300
   - name: OpenStack EC2 API
     url: https://openstack.stfc.ac.uk:8788/v2/
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -54,6 +61,7 @@ sites:
       - 300
   - name: OpenStack Identity (Keystone)
     url: https://openstack.stfc.ac.uk:5000
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -61,6 +69,7 @@ sites:
       - 300
   - name: OpenStack Identity v3 (Keystone v3)
     url: https://openstack.stfc.ac.uk:5000/v3
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -68,6 +77,7 @@ sites:
       - 300
   - name: OpenStack Orchestration (Heat)
     url: https://openstack.stfc.ac.uk:8004/v1
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -75,6 +85,7 @@ sites:
       - 300
   - name: OpenStack Volume (Cinder v3)
     url: https://openstack.stfc.ac.uk:8776/v3
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -82,6 +93,7 @@ sites:
       - 300
   - name: OpenStack Load Balancer (Octavia)
     url: https://openstack.stfc.ac.uk:9876
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -89,6 +101,7 @@ sites:
       - 300
   - name: OpenStack Shared File System (Manila)
     url: https://openstack.stfc.ac.uk:8786/v1
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -96,6 +109,7 @@ sites:
       - 300
   - name: OpenStack Shared File System v2 (Manila v2)
     url: https://openstack.stfc.ac.uk:8786/v2
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -103,6 +117,7 @@ sites:
       - 300
   - name: OpenStack Object Store (Swift)
     url: https://s3.echo.stfc.ac.uk/swift/v1
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -110,6 +125,7 @@ sites:
       - 300
   - name: OpenStack Image (Glance)
     url: https://openstack.stfc.ac.uk:9292
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -117,6 +133,7 @@ sites:
       - 300
   - name: OpenStack Network (Neutron)
     url: https://openstack.stfc.ac.uk:9696
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
@@ -124,6 +141,7 @@ sites:
       - 300
   - name: OpenStack Resource Placement
     url: https://openstack.stfc.ac.uk:8778
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 200
       - 401
