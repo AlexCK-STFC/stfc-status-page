@@ -4,18 +4,20 @@
     "url": "https://openstack.stfc.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-web-ui-horizon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.65%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
     "time": 1017,
     "timeDay": 1017,
     "timeWeek": 1017,
     "timeMonth": 1017,
     "timeYear": 1017,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 3
+    }
   },
   {
     "name": "OpenStack Baremetal (Ironic)",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-baremetal-ironic",
     "status": "down",
-    "uptime": "4.79%",
-    "uptimeDay": "4.79%",
-    "uptimeWeek": "4.79%",
-    "uptimeMonth": "4.79%",
-    "uptimeYear": "4.79%",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 10
+      "2025-07-10": 62
     }
   },
   {
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 879,
-    "timeWeek": 879,
-    "timeMonth": 879,
-    "timeYear": 879,
+    "time": 889,
+    "timeDay": 889,
+    "timeWeek": 889,
+    "timeMonth": 889,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 91,
-    "timeWeek": 91,
-    "timeMonth": 91,
-    "timeYear": 91,
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -126,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 9
+      "2025-07-10": 61
     }
   },
   {
@@ -140,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 994,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "time": 1008,
+    "timeDay": 1008,
+    "timeWeek": 1008,
+    "timeMonth": 1008,
+    "timeYear": 1008,
     "dailyMinutesDown": {}
   },
   {
@@ -158,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "time": 166,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -176,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -194,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 562,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 483,
+    "timeDay": 483,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   },
   {
@@ -212,11 +214,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "time": 434,
+    "timeDay": 434,
+    "timeWeek": 434,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   },
   {
@@ -225,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-shared-file-system-manila",
     "status": "down",
-    "uptime": "5.28%",
-    "uptimeDay": "5.28%",
-    "uptimeWeek": "5.28%",
-    "uptimeMonth": "5.28%",
-    "uptimeYear": "5.28%",
+    "uptime": "0.81%",
+    "uptimeDay": "0.81%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 9
+      "2025-07-10": 61
     }
   },
   {
@@ -245,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-shared-file-system-v2-manila-v2",
     "status": "down",
-    "uptime": "5.70%",
-    "uptimeDay": "5.70%",
-    "uptimeWeek": "5.70%",
-    "uptimeMonth": "5.70%",
-    "uptimeYear": "5.70%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 8
+      "2025-07-10": 60
     }
   },
   {
@@ -265,18 +267,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.echo.stfc.ac.uk.ico",
     "slug": "open-stack-object-store-swift",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 525,
-    "timeDay": 525,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-07-10": 8
+      "2025-07-10": 60
     }
   },
   {
@@ -290,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 453,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "time": 650,
+    "timeDay": 650,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -308,11 +310,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 702,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "time": 576,
+    "timeDay": 576,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -321,18 +323,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-resource-placement",
     "status": "down",
-    "uptime": "6.03%",
-    "uptimeDay": "6.03%",
-    "uptimeWeek": "6.03%",
-    "uptimeMonth": "6.03%",
-    "uptimeYear": "6.03%",
+    "uptime": "0.81%",
+    "uptimeDay": "0.81%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 8
+      "2025-07-10": 60
     }
   }
 ]
