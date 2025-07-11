@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 662
     }
   },
@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-cloudformation-heat-cfn",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 691,
     "timeDay": 620,
     "timeWeek": 691,
@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-compute-nova",
     "status": "up",
-    "uptime": "32.14%",
-    "uptimeDay": "36.42%",
-    "uptimeWeek": "32.14%",
-    "uptimeMonth": "32.14%",
-    "uptimeYear": "32.14%",
+    "uptime": "32.64%",
+    "uptimeDay": "37.50%",
+    "uptimeWeek": "32.64%",
+    "uptimeMonth": "32.64%",
+    "uptimeYear": "32.64%",
     "time": 5013,
     "timeDay": 6074,
     "timeWeek": 5013,
@@ -102,19 +102,19 @@
     "url": "https://openstack.stfc.ac.uk:8774/v2",
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-legacy-compute-nova-legacy",
-    "status": "up",
-    "uptime": "31.30%",
-    "uptimeDay": "35.16%",
-    "uptimeWeek": "31.30%",
-    "uptimeMonth": "31.30%",
-    "uptimeYear": "31.30%",
-    "time": 5960,
-    "timeDay": 6931,
-    "timeWeek": 5960,
-    "timeMonth": 5960,
-    "timeYear": 5960,
+    "status": "down",
+    "uptime": "31.73%",
+    "uptimeDay": "36.12%",
+    "uptimeWeek": "31.73%",
+    "uptimeMonth": "31.73%",
+    "uptimeYear": "31.73%",
+    "time": 6441,
+    "timeDay": 7611,
+    "timeWeek": 6441,
+    "timeMonth": 6441,
+    "timeYear": 6441,
     "dailyMinutesDown": {
-      "2025-07-11": 917,
+      "2025-07-11": 919,
       "2025-07-10": 515
     }
   },
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 662
     }
   },
@@ -181,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-orchestration-heat",
     "status": "up",
-    "uptime": "44.34%",
-    "uptimeDay": "41.00%",
-    "uptimeWeek": "44.34%",
-    "uptimeMonth": "44.34%",
-    "uptimeYear": "44.34%",
+    "uptime": "44.76%",
+    "uptimeDay": "42.08%",
+    "uptimeWeek": "44.76%",
+    "uptimeMonth": "44.76%",
+    "uptimeYear": "44.76%",
     "time": 2449,
     "timeDay": 855,
     "timeWeek": 2449,
@@ -202,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-volume-cinder-v3",
     "status": "up",
-    "uptime": "36.51%",
-    "uptimeDay": "41.00%",
-    "uptimeWeek": "36.51%",
-    "uptimeMonth": "36.51%",
-    "uptimeYear": "36.51%",
+    "uptime": "36.98%",
+    "uptimeDay": "42.08%",
+    "uptimeWeek": "36.98%",
+    "uptimeMonth": "36.98%",
+    "uptimeYear": "36.98%",
     "time": 2301,
     "timeDay": 405,
     "timeWeek": 2301,
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 661
     }
   },
@@ -273,7 +273,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 660
     }
   },
@@ -294,7 +294,7 @@
     "timeMonth": 645,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 660
     }
   },
@@ -304,18 +304,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-image-glance",
     "status": "up",
-    "uptime": "3.15%",
+    "uptime": "3.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.15%",
-    "uptimeMonth": "3.15%",
-    "uptimeYear": "3.15%",
+    "uptimeWeek": "3.12%",
+    "uptimeMonth": "3.12%",
+    "uptimeYear": "3.12%",
     "time": 528,
     "timeDay": 618,
     "timeWeek": 528,
     "timeMonth": 528,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 595
     }
   },
@@ -325,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openstack.stfc.ac.uk.ico",
     "slug": "open-stack-network-neutron",
     "status": "up",
-    "uptime": "3.17%",
+    "uptime": "3.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.17%",
-    "uptimeMonth": "3.17%",
-    "uptimeYear": "3.17%",
+    "uptimeWeek": "3.15%",
+    "uptimeMonth": "3.15%",
+    "uptimeYear": "3.15%",
     "time": 1194,
     "timeDay": 471,
     "timeWeek": 1194,
     "timeMonth": 1194,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 594
     }
   },
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1424,
+      "2025-07-11": 1439,
       "2025-07-10": 660
     }
   }
