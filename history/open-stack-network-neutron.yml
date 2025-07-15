@@ -1,7 +1,7 @@
 url: https://openstack.stfc.ac.uk:9696
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-15T18:36:21.134Z
+status: up
+code: 200
+responseTime: 1353
+lastUpdated: 2025-07-15T18:59:53.605Z
 startTime: 2025-07-10T12:59:39.087Z
 generator: Upptime <https://github.com/upptime/upptime>
